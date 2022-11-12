@@ -1,2 +1,2 @@
-# College MeetUp
+# chattEasy
  A ChatApp
